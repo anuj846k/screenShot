@@ -1,0 +1,6 @@
+{
+  "databaseURL": "https://Anuj-kumar-s-workspace-kmds11.us-east-1.xata.sh/db/screencast",
+  "codegen": {
+    "output": "src/xata.ts"
+  }
+}
